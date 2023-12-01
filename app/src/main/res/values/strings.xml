@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="username"><![CDATA[<<Username>>]]></string>
+    <string name="password"><![CDATA[<<Password>>]]></string>
+    <string name="confirm_password"><![CDATA[<<Confirm Password>>]]></string>
+    <string name="submit">Submit</string>
+</resources>
